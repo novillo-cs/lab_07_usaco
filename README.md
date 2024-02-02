@@ -9,7 +9,7 @@
 
 ## Directions:
 
-* Implement the solution for the bronze and silver problems. The following method must be implemented in files Bronze.java and Silver.java. Do NOT change change method signature, if you do, you will lose points. 
+* Implement the solution for the bronze and silver problems. The following method must be implemented in the files Bronze.java and Silver.java. Do NOT change the method signature, if you do, you will lose points. 
   
 ```public static long solve(String input_filename)```
 
@@ -30,6 +30,6 @@ System.out.println("Silver solution: " + silverSol);
 
 ## Reminders:
 
-* Make sure your lab compiles before submit it. If it does not compile you will not receive any credit for the lab, you could resubmit a working version for partial credit (20% will be deducted).
+* Make sure your lab compiles before submit it. If it does not compile you will not receive any credit for the lab. You could resubmit a working version for partial credit (20% will be deducted).
 
 * Late submissions will be penalized (20% will be deducted).
