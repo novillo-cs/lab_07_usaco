@@ -24,7 +24,7 @@ long silverSol = Silver.solve("YOUR_FILE_HERE");
 System.out.println("Silver solution: " + silverSol);
 ```
 
-* Test your code with the two test cases provided. If you would like you can craeate your own test cases.
+* Test your code with the two test cases provided. If you would like you can create your own test cases.
   
 * Check if your solution is the same as the one provided in the output files.
 
