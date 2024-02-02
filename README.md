@@ -1,1 +1,7 @@
-# lab_07_usaco
+# LAB 07: USACO
+
+**Name:**
+
+**Period:**
+
+**Email:**
