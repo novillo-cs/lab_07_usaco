@@ -28,8 +28,8 @@ System.out.println("Silver solution: " + silverSol);
   
 * Check if your solution is the same as the one provided in the output files.
 
-## Reminder:
+## Reminders:
 
-Make sure your lab compiles before submit it. If it does not compile you will not receive any credit for the lab, you could resubmit a working version for partial credit (20% will be deducted).
+* Make sure your lab compiles before submit it. If it does not compile you will not receive any credit for the lab, you could resubmit a working version for partial credit (20% will be deducted).
 
-Late submissions will be penalized (20% will be deducted).
+* Late submissions will be penalized (20% will be deducted).
